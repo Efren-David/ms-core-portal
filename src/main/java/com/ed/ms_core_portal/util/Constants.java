@@ -1,8 +1,5 @@
 package com.ed.ms_core_portal.util;
 
-import java.nio.charset.Charset;
-import java.nio.charset.StandardCharsets;
-
 public class Constants {
 
 	/**

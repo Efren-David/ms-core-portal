@@ -26,3 +26,21 @@ Este microservicio permite validar usuarios y generar autenticación para el acc
 # 🏗️ Arquitectura
 
 Este proyecto sigue una arquitectura por capas:
+
+Componentes principales:
+
+- Controller
+- Service
+- Repository
+- DTO
+- Config
+- Security
+
+---
+
+# ⚙️ Instalación
+
+Clonar el repositorio
+
+```bash
+git clone https://github.com/Efren-David/ms-core-portal.git
